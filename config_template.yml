@@ -1,0 +1,22 @@
+worldDefault: 'world'
+frog:
+  premio: 1.0
+  bpt: 50
+  timer:
+    toStart: 5
+    iniciando: 100
+    rodada: 240
+    tirarNeve: 100
+    voltarNeve: 25
+  posicoes:
+    pos1:
+    pos2:
+maratona:
+  premio: 1.0
+maratona2:
+  premio: 1.0
+parkour:
+  premio: 1.0
+parkour2:
+  premio: 1.0
+frogBlocos: {}
